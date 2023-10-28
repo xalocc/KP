@@ -20,6 +20,7 @@ global.owner = [
   ['5215533827255', '💫 Mystic - Collaborator 7 💫', false],
   ['59895555511', '💫 Mystic - Collaborator 8 💫', false],
   ['56945543372', '💫 Mystic - Collaborator 9 💫', false],
+  ['51934308885', '💫 Mystic - Collaborator 10 💫', false],
   ['393518398856','💫 Mystic - Tester Fabri115💫', false],
   ['593968585283'],
   ['5219993404349'],
@@ -38,11 +39,11 @@ global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
 global.packname = '(☞ﾟ∀ﾟ)☞';
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.titulowm = '🤖 ＴＨＥ ＭＹＳＴＩＣ － ＢＯＴ 🤖';
-global.titulowm2 = `乂  𝚃 𝙷 𝙴  𝙼 𝚈 𝚂 𝚃 𝙸 𝙲  -  𝙱 𝙾 𝚃  乂`
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
+global.author = '@COMUNIDAD.DKN';
+global.wm = '@COMUNIDAD.DKN';
+global.titulowm = '@COMUNIDAD.DKN';
+global.titulowm2 = `@COMUNIDAD.DKN`
+global.igfg = '@COMUNIDAD.DKN';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
